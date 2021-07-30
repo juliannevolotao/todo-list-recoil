@@ -1,34 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h4 align="center">
+  :ballot_box_with_check: Todo List | Recoil Test
+</h4>
+ 
+<p align="center">
+    <img alt="Todo list" src=".github/todoPhoto.jpeg"  width="400px" >
+</p>
 
-## Getting Started
+<p align="center">
+  :computer: <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :eye: <a href="#eye-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :gem: <a href="#moon-iniciando-a-aplicação"> Iniciando a aplicação </a>
+</p>
 
-First, run the development server:
+<br>
+<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## :computer: Tecnologias
+- [Reactjs](https://pt-br.reactjs.org/), [Nextjs](https://nextjs.org/)
+- [Recoil](https://recoiljs.org/)
+- [Styled-Components](https://styled-components.com/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
+<br>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## :eye: Preview
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p align="center">
+    <img alt="Todo list" src=".github/todo.gif"   >
+</p>
 
-## Learn More
+<br>
+<br>
 
-To learn more about Next.js, take a look at the following resources:
+## :moon: Iniciando a aplicação 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**1.** Clone o repositório para sua máquina usando o comando `git clone https://github.com/juliannevolotao/todo-list-recoil.git` no local desejado através do terminal. Em seguida acesse a pasta do projeto com o comando `cd todo-list-recoil`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br>
 
-## Deploy on Vercel
+**2.** Execute o comando `yarn` ou `npm install` através do terminal para instalar as dependências.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**3.** Por fim, rode a aplicação com `yarn dev` ou `npm run dev`. Se tudo ocorrer bem abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto
+
+<br>
+<br>
+
+<h5 align="center">
+  :heart: Desenvolvido por Julianne Volotão.
+</h5>
+
+<br>
+<br>
